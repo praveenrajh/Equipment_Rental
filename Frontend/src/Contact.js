@@ -24,7 +24,7 @@ function Contact() {
                     alt=""
                   />
                 </a>
-                <a href="mailto:rakashpraveen@karunya.edu.in">
+                <a href="mailto:ppcupcs@gmail.com">
                   <img
                     src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png"
                     width="40px"
@@ -83,7 +83,7 @@ function Contact() {
                 <br />
                 <a
                   style={{ padding: "20px" }}
-                  href="https://in.linkedin.com/in/akash-praveen"
+                  href="https://in.linkedin.com/in/praveen-rajh"
                 >
                   <img
                     src="https://cdn.iconscout.com/icon/premium/png-256-thumb/linkedin-3506278-2932736.png"
@@ -94,7 +94,7 @@ function Contact() {
                 </a>
                 <a
                   style={{ padding: "20px" }}
-                  href="https://github.com/Akashakke"
+                  href="https://github.com/praveenrajh"
                 >
                   <img
                     src="https://education.github.com/assets/pack/icon_github-pages-3f2eb02545ca7c3e81beb0a464e85fb5340ec9d689133db563d1869350d6416c.png"
@@ -105,7 +105,7 @@ function Contact() {
                 </a>
                 <a
                   style={{ padding: "20px" }}
-                  href="https://www.instagram.com/_akie4/"
+                  href="https://www.instagram.com/praveenkrishna__/"
                 >
                   <img
                     src="https://cdn.iconscout.com/icon/free/png-256/instagram-52-151106.png"
@@ -116,7 +116,7 @@ function Contact() {
                 </a>
                 <a
                   style={{ padding: "20px" }}
-                  href="https://twitter.com/akke_akash"
+                  href="https://twitter.com/praveenraj_sree"
                 >
                   <img
                     src="https://cdn.iconscout.com/icon/free/png-256/twitter-3770969-3147586.png"

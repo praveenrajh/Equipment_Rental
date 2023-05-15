@@ -23,7 +23,7 @@ export default function SigninScreen() {
   const submitHandler = async (e) => {
     e.preventDefault();
     try {
-      const { data } = await Axios.post('https://webcode-backend-guvi.onrender.com/api/users/signin', {
+      const { data } = await Axios.post('https://equipment-rental-920o.onrender.com/api/users/signin', {
         email,
         password,
       });
