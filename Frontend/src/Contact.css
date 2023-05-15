@@ -1,0 +1,78 @@
+.contact{
+    background-color:grey;
+    
+}
+#Contact{
+    background-color: grey;
+    height: 100px;
+    width: 100%;
+}
+
+h4.hire__text {
+    font-size: 30px;
+    color:black;
+}
+p.hire__text{
+    font-size: 18px;
+    line-height: 30px;
+    color: black;
+    font-weight: 400;
+}
+input.contact{
+    display: block;
+    width: 100%;
+    padding: 0 20px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    -webkit-transition: all .3s ease;
+    transition: all .3s ease;
+    height: 50px;
+    line-height: 46px;
+    margin: 20px 0px;
+    outline: none;
+    color: rgb(22, 6, 6);
+    font-size: 15px;
+    letter-spacing: .1px;
+    background: none;
+    border: 2px solid rgb(17, 1, 1);
+}
+.contact__img{
+    border-radius: 10px;
+    width: 100%;
+    overflow: hidden;
+}
+textarea#message{
+    height: 80px;
+    background: none;
+    padding: 0 20px;
+    width: 400px;
+    line-height: 46px;
+    color: black;
+    font-size: 15px;
+    background-color: aliceblue;
+    letter-spacing: .1px;
+    border: 2px solid rgb(19, 3, 3);
+}
+button.btn.contact.pointer {
+    padding: 5px;
+    text-transform: capitalize;
+    width: 120px;
+    height: 35px;
+    font-size: 14px;
+    background-color: aliceblue;
+    transition: .4s ease;
+    color: rgb(7, 131, 239);
+}
+.input__box{
+    
+    width: 400px;
+}
+#name{
+    background-color: aliceblue;
+}
+#email{
+    background-color: aliceblue;
+}
+#subject{
+    background-color: aliceblue;
+}
