@@ -18,7 +18,7 @@ export default function CartScreen() {
   } = state;
 
   const updateCartHandler = async (item, quantity) => {
-    const { data } = await axios.get(`https://webcode-backend-guvi.onrender.com/api/products/${item._id}`);
+    const { data } = await axios.get(`https://equipment-rental-920o.onrender.com/api/products/${item._id}`);
     if (data.countInStock < quantity) {
       window.alert('Sorry. Product is out of stock');
       return;
